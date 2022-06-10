@@ -2,7 +2,7 @@
 
 <img width="480" alt="Screenshot 2022-06-10 at 10 25 01" src="https://user-images.githubusercontent.com/54024811/173012993-5a6796f1-b99c-453b-915c-81f48114ac9f.png">
 
-//===========================================================================================
+
 
 ## You can view project in expo app by this qr code.
 
